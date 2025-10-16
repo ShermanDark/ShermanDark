@@ -1,84 +1,87 @@
 # 👋 ¡Hola! Soy Alexander Navas
 
-🎯 **QA Automation & Analista de Datos**  
+🎯 **QA Automation | Software Tester | Analista de Datos**  
 💻 Estudiante de Desarrollo de Sistemas Front-End y Back-End (`IDAT`, 2025)  
-🧠 Apasionado por la calidad, los datos y el desarrollo de soluciones funcionales
+🧠 Apasionado por la calidad, la eficiencia y la mejora continua en entornos ágiles
 
 ---
 
 ## 🧑‍💼 Sobre mí
 
-Soy un profesional en tecnología con enfoque en **control de calidad de software** y **análisis de datos**.  
-Tengo experiencia en ejecución de pruebas manuales, validación de interfaces con **Figma**, automatización de tests, análisis de datos y diseño de reportes en entornos ágiles.  
-Manejo entornos colaborativos con fluidez, utilizando herramientas como Git, Power BI, Slack, Jira y otras plataformas orientadas a la gestión ágil, control de calidad y análisis de datos.
+Soy un especialista en aseguramiento de calidad (QA) con experiencia en pruebas manuales y automatizadas, validación de endpoints, bases de datos y reglas de negocio, así como en la documentación de resultados y evidencias para garantizar la trazabilidad del software.
+
+He participado en proyectos donde propuse e implementé estrategias de automatización con **Playwright**, mejorando la estabilidad y mantenibilidad de los test.  
+Además, poseo una sólida base en **SQL**, control de versiones (**Git/GitHub**) y herramientas colaborativas como **Jira** y **Slack**.
+
+Me caracterizo por mi atención al detalle, capacidad analítica y compromiso con la calidad del producto y la optimización de procesos.
 
 ---
 
 ## 💼 Experiencia profesional
 
-### 📍 **Consorcio Cueva** (2024 – 2025)
-- Ejecución de pruebas manuales exhaustivas para validar funcionalidades.
-- Validación de propiedades visuales con HTML/CSS.
-- Generación de reportes y dashboards con datos analizados en SQL y Power BI.
-- Revisión de datos para detectar errores e inconsistencias.
+### 📍 **Consorcio Cueva – QA Automation (2024 – 2025)**
+- Implementación de estrategias de automatización con **Playwright** mediante el uso de `data-testid`, optimizando la estabilidad de las pruebas end-to-end.
+- Validación de endpoints y respuestas de API usando **Postman**.
+- Ejecución de pruebas de integración con bases de datos **SQL**.
+- Documentación de resultados, incidencias y reportes de calidad en **Jira Software**.
 
-### 📍 **Empresa Tecnológica GlobalS1** (2023)
-- Revisión funcional y visual de prototipos en **Figma**.
-- Documentación de bugs y flujos de prueba.
-- Validación de interfaces y testeo de coherencia entre diseño y funcionalidad.
-- Apoyo en consultas SQL para validar integridad de datos.
+### 📍 **GlobalS1 – QA Tester (2023)**
+- Ejecución de pruebas funcionales y de integración.  
+- Validación de reglas de negocio y consistencia de datos.  
+- Documentación de defectos y seguimiento de correcciones.  
+- Participación en pruebas de usabilidad y revisión visual con **Figma**.
 
 ---
 
-## 📚 Educación y certificaciones
+## 🎓 Educación y certificaciones
 
-🎓 **Desarrollo de Sistemas Front-End y Back-End**  
-`Instituto IDAT` – En curso (2025)
+### 🏫 **Instituto IDAT**
+**Desarrollo de Sistemas Front-End y Back-End** – En curso (2025)
 
-🧩 **Certificaciones en Platzi:**
+### 🎓 **Platzi – Plataforma de Educación Online**
+**Certificaciones:**
 - Fundamentos de Pruebas de Software  
 - Introducción a la Automatización de Pruebas  
-- Automatización de Test con Playwright  
-- Git y GitHub  
+- Automatización de Tests con Playwright  
 - Fundamentos de Bases de Datos  
 - SQL para Análisis de Datos  
-- Bases de Datos NoSQL (MongoDB)  
+- Git y GitHub  
+- Algoritmos y Diagramas de Flujo  
 - Excel Avanzado para Análisis de Datos  
-- Power BI  
-- Algoritmos y Diagramas de Flujo
+- Power BI
 
 ---
 
-## 🛠️ Tecnologías y herramientas
-
-### 🖥️ Lenguajes y frameworks:
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### 💾 Bases de datos:
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+## 🧰 Tecnologías y herramientas
 
 ### 🧪 QA y automatización:
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=microsoft-edge&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### 📊 Visualización y análisis de datos:
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+### 💾 Bases de datos:
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### 🧰 Desarrollo y control de versiones:
+### 🖥️ Lenguajes y frameworks:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 🧠 Análisis de datos y visualización:
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+### ⚙️ Control de versiones y entornos:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### 🤝 Diseño e interfaces:
+### 🤝 Colaboración y diseño:
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-### 🧑‍💼 Herramientas colaborativas:
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira-software&logoColor=white)
 ![Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white)
@@ -87,14 +90,14 @@ Manejo entornos colaborativos con fluidez, utilizando herramientas como Git, Pow
 
 ## 🗣️ Idiomas
 
-- **Español:** Nativo  
-- **Inglés:** B1 (lectura técnica y comunicación básica)
+🇪🇸 **Español:** Nativo  
+🇺🇸 **Inglés:** Nivel B1 – Lectura técnica y comunicación básica
 
 ---
 
 ## 📬 Contacto
 
-- ✉️ **Correo:** [alexander.navasrivadeneyra@gmail.com](mailto:alexander.navasrivadeneyra@gmail.com)  
-
-
-
+📞 **(+51) 991 625 851**  
+📍 **Lima, Perú**  
+🔗 [LinkedIn.com/in/alexandernavas](https://www.linkedin.com/in/alexandernavas)  
+✉️ **alexander.navasrivadeneyra@gmail.com**
