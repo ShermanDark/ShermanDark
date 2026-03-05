@@ -1,7 +1,6 @@
-# 👋 ¡Hola! Soy Alexander Navas
+# 👋 ¡Hola! Soy Alexander
 
-🎯 **QA Automation Engineer | Software Tester**  
-💻 Estudiante de Desarrollo de Sistemas Front-End y Back-End (IDAT)  
+🎯 **QA Automation Engineer | Software Tester**   
 📍 Lima, Perú  
 
 Apasionado por la **calidad del software, la automatización de pruebas y la mejora continua** en entornos ágiles.
@@ -64,7 +63,7 @@ Me caracterizo por mi **atención al detalle, pensamiento analítico y enfoque e
 ## 🎓 Educación y certificaciones
 
 ### 🏫 **Instituto IDAT**
-**Desarrollo de Sistemas Front-End y Back-End** – En curso (2025)
+**Desarrollo de Sistemas Front-End y Back-End**
 
 ### 🎓 **Platzi – Plataforma de Educación Online**
 **Certificaciones:**
@@ -124,8 +123,7 @@ Me caracterizo por mi **atención al detalle, pensamiento analítico y enfoque e
 ---
 
 ## 📬 Contacto
-
-📞 **(+51) 991 625 851**  
+ 
 📍 **Lima, Perú**  
 🔗 [LinkedIn.com/in/alexandernavas](https://www.linkedin.com/in/alexandernavas)  
 ✉️ **anavas.tech@gmail.com**
