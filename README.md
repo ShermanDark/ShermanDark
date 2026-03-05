@@ -1,35 +1,63 @@
 # 👋 ¡Hola! Soy Alexander Navas
 
-🎯 **QA Automation | Software Tester | Analista de Datos**  
-💻 Estudiante de Desarrollo de Sistemas Front-End y Back-End (`IDAT`, 2025)  
-🧠 Apasionado por la calidad, la eficiencia y la mejora continua en entornos ágiles
+🎯 **QA Automation Engineer | Software Tester**  
+💻 Estudiante de Desarrollo de Sistemas Front-End y Back-End (IDAT)  
+📍 Lima, Perú  
+
+Apasionado por la **calidad del software, la automatización de pruebas y la mejora continua** en entornos ágiles.
 
 ---
 
 ## 🧑‍💼 Sobre mí
 
-Soy un especialista en aseguramiento de calidad (QA) con experiencia en pruebas manuales y automatizadas, validación de endpoints, bases de datos y reglas de negocio, así como en la documentación de resultados y evidencias para garantizar la trazabilidad del software.
+Soy QA Automation con experiencia en **pruebas manuales y automatizadas end-to-end**, enfocado en validar flujos críticos de negocio y asegurar la estabilidad del producto antes de su salida a producción.
 
-He participado en proyectos donde propuse e implementé estrategias de automatización con **Playwright**, mejorando la estabilidad y mantenibilidad de los test.  
-Además, poseo una sólida base en **SQL**, control de versiones (**Git/GitHub**) y herramientas colaborativas como **Jira** y **Slack**.
+Tengo experiencia validando **integraciones entre frontend, backend y bases de datos**, así como en la documentación de pruebas y defectos para mantener la **trazabilidad y calidad del software** dentro de equipos ágiles.
 
-Me caracterizo por mi atención al detalle, capacidad analítica y compromiso con la calidad del producto y la optimización de procesos.
+He trabajado implementando y evolucionando frameworks de automatización con **Playwright + TypeScript**, mejorando la cobertura de pruebas y la mantenibilidad de los tests.  
+También realizo validaciones de **API con Postman**, consultas en **SQL y MongoDB**, y gestión de incidencias mediante **Jira**.
+
+Me caracterizo por mi **atención al detalle, pensamiento analítico y enfoque en la calidad del producto**.
 
 ---
 
 ## 💼 Experiencia profesional
 
-### 📍 **Consorcio Cueva – QA Automation (2024 – 2025)**
-- Implementación de estrategias de automatización con **Playwright** mediante el uso de `data-testid`, optimizando la estabilidad de las pruebas end-to-end.
-- Validación de endpoints y respuestas de API usando **Postman**.
-- Ejecución de pruebas de integración con bases de datos **SQL**.
-- Documentación de resultados, incidencias y reportes de calidad en **Jira Software**.
+### 📍 Consorcio Cueva — QA Automation (2024 – 2026)
 
-### 📍 **GlobalS1 – QA Tester (2023)**
-- Ejecución de pruebas funcionales y de integración.  
-- Validación de reglas de negocio y consistencia de datos.  
-- Documentación de defectos y seguimiento de correcciones.  
-- Participación en pruebas de usabilidad y revisión visual con **Figma**.
+- Implementación de estrategia de **automatización E2E con Playwright + TypeScript**, utilizando `data-testid` para mejorar la estabilidad de las pruebas.
+- Construcción y evolución del **framework de automatización**, ampliando cobertura en flujos críticos del sistema.
+- Validación de integraciones mediante **SQL y Postman**, asegurando consistencia de datos.
+- Documentación de pruebas, resultados y defectos en **Jira**, fortaleciendo la trazabilidad del proceso de QA dentro de equipos ágiles.
+
+---
+
+### 📍 GlobalS1 — QA Manual (2023)
+
+- Ejecución de **pruebas funcionales, de integración y regresión** en flujos críticos.
+- Validación de **reglas de negocio y consistencia de datos entre módulos**.
+- Evaluación de **usabilidad y revisión visual de interfaces con Figma**.
+- Registro y seguimiento de **defectos en Jira**, colaborando con el equipo para su resolución.
+
+---
+
+## 🛠️ Habilidades técnicas
+
+- Automatización de pruebas **End-to-End con Playwright (TypeScript)**
+- Pruebas de **API con Postman**
+- Validación de datos con **SQL y MongoDB**
+- Control de versiones con **Git / GitHub**
+- Herramientas: **Jira, Slack, Excel, Figma**
+
+---
+
+## 🤝 Habilidades blandas
+
+- Atención al detalle  
+- Pensamiento analítico  
+- Resolución de problemas  
+- Documentación técnica clara  
+- Trabajo colaborativo en equipos ágiles
 
 ---
 
@@ -100,4 +128,4 @@ Me caracterizo por mi atención al detalle, capacidad analítica y compromiso co
 📞 **(+51) 991 625 851**  
 📍 **Lima, Perú**  
 🔗 [LinkedIn.com/in/alexandernavas](https://www.linkedin.com/in/alexandernavas)  
-✉️ **alexander.navasrivadeneyra@gmail.com**
+✉️ **anavas.tech@gmail.com**
